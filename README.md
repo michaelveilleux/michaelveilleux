@@ -5,7 +5,7 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Michael.<br>
+        I'm Michaël.<br>
         With a strong background in UX/UI Design, I'm a fervent enthusiast of communication, aesthetics, ethics, systems, and technology. An expert in process and structural design, my systemic vision brings clarity and strengthens team synergy. My ability to organize and foster leadership ensures harmonious and efficient collaborations. I value human potential by placing affinity and integrity at the heart of innovation.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/michaelveilleux">
